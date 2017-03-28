@@ -14,6 +14,11 @@ public interface Player {
     void addLife();
 
     /**
+     * Add 50 strength to the player life
+     */
+    void addStrength();
+
+    /**
      * @return the player name
      */
     String getName();

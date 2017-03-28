@@ -47,6 +47,11 @@ public class GodImpl implements Player {
     }
 
     @Override
+    public void addStrength() {
+
+    }
+
+    @Override
     public String getName()
     {
         return this.name;
