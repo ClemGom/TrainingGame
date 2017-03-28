@@ -1,5 +1,5 @@
 /**
- * Created by Clement Gomis on 28/03/2017.
+ * Created by Clement Gomis on 28/03/2017
  */
 public interface Player {
     /**
